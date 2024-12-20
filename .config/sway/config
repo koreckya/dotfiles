@@ -64,7 +64,7 @@ set $browser brave
 	set $text_color #ebdbb2
 	set $title_bg_unfocused #666666
 	# active window color
-	set $title_outline_active #98971a 
+	set $title_outline_active #91789b
 	set $title_outline_unfocused #928374
 	
 	# Set Colors:           Border                   Background          Text          Indicator             Child Border
